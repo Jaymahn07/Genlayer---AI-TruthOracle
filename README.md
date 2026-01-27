@@ -4,8 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GenLayer](https://img.shields.io/badge/Built%20on-GenLayer-blue)](https://genlayer.com)
-[![Difficulty](https://img.shields.io/badge/Difficulty-Beginner%20⭐-green)](.)
-[![Time](https://img.shields.io/badge/Build%20Time-30%20minutes-orange)](.)
+
 
 ## 🌟 Overview
 
