@@ -87,7 +87,7 @@ get_answer(1)  # Returns the question and answer
 
 ## 📖 Documentation
 
-**Full Tutorial**: [Read the complete tutorial](./ai-truth-oracle-tutorial.md) for step-by-step instructions, code explanations, and advanced features.
+**Full Tutorial**: [Read the complete tutorial](https://medium.com/@joshuapereira2018/building-an-ai-truth-oracle-on-genlayer-a-complete-tutorial-899a5eb8b131?postPublishedType=initial) for step-by-step instructions, code explanations, and advanced features.
 
 **Key Topics Covered**:
 - How AI consensus works
