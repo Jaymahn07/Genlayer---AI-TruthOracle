@@ -2,6 +2,8 @@
 
 > A decentralized oracle that answers yes/no questions about real-world events using AI consensus on GenLayer
 
+LIVE @ https://ai-truth-oracle.vercel.app/
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GenLayer](https://img.shields.io/badge/Built%20on-GenLayer-blue)](https://genlayer.com)
 
