@@ -28,9 +28,11 @@ export function AskQuestion() {
                 <CardTitle>❓ Ask a Question</CardTitle>
             </CardHeader>
             <CardContent>
-                <div className="mb-4 p-3 bg-yellow-900/20 border border-yellow-600 rounded-lg text-sm text-gray-300">
-                    💰 This requires gas. Connect your wallet first.
-                </div>
+                {!isConnected && (
+                    <div className="mb-4 p-3 bg-yellow-900/20 border border-yellow-600 rounded-lg text-sm text-gray-300">
+                        💰 This requires gas. Connect your wallet first.
+                    </div>
+                )}
 
                 <form onSubmit={handleSubmit} className="space-y-4">
                     <div>
